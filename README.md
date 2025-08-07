@@ -44,7 +44,7 @@ go run ./challenge-dua-with-database
 | PUT    | `/movies/{id}`   | Memperbarui data film                       |
 | GET    | `/movies/search` | Mencari film berdasarkan query tertentu     |
 
-### 📌 Contoh Request (Create Movie)
+### Contoh Request (Create Movie)
 
 **POST** `/movies`
 ```json
