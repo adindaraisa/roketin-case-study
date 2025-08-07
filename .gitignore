@@ -26,6 +26,7 @@ go.work.sum
 
 # env file
 .env
+challenge-dua-with-database/.env
 
 # Editor/IDE
 # .idea/
