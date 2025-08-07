@@ -18,7 +18,7 @@ Contoh output:
 Aplikasi REST API untuk mengelola data film festival.
 
 ### Fitur:
-- Create & update movie (mencegah duplikasi artists dan genres)
+- Create & update movie
 - List semua movie dengan pagination
 - Search movie berdasarkan title, description, artists, dan genres
 - Versi **tanpa database** (in-memory)
